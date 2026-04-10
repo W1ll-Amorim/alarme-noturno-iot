@@ -31,8 +31,7 @@ O projeto pode ser testado diretamente no navegador:
 
 ## 🧰 Componentes Utilizados
 
-Lista completa em:
-📊 (data/componentes.csv)
+📊 Lista completa: [Ver componentes](data/componentes.csv)
 
 ---
 
