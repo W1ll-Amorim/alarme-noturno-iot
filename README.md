@@ -19,13 +19,13 @@ Sistema projetado para detectar movimento durante o período noturno e acionar a
 
 ---
 
-## 🔬 Simulação no Tinkercad
+## ▶️ Simulação
 
-O projeto pode ser testado diretamente no navegador:
+Clique no botão abaixo para testar:
 
-👉 [Abrir simulação no Tinkercad](https://www.tinkercad.com/things/atXI95PUQ4A-projeto-sistema-de-alarme?sharecode=yeQEzCxfM6qNtu7f5-9hIj1yLma_P7yH3KMDHIB2Fac)
+[![▶ Executar Simulação](https://img.shields.io/badge/▶%20Executar%20Simulação-Tinkercad-green?style=for-the-badge)](https://www.tinkercad.com/things/atXI95PUQ4A-projeto-sistema-de-alarme?sharecode=yeQEzCxfM6qNtu7f5-9hIj1yLma_P7yH3KMDHIB2Fac)
 
-💡 Basta clicar em **Start Simulation** para ver o sistema funcionando.
+💡 Basta clicar em **Executar simulação** para ver o sistema funcionando.
 
 ---
 
