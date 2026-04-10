@@ -6,7 +6,7 @@ Projeto de um sistema de alarme residencial utilizando Arduino, com simulação 
 
 ## 📌 Descrição
 
-Sistema capaz de detectar movimento durante o período noturno e acionar alertas sonoros e visuais.
+Sistema projetado para detectar movimento durante o período noturno e acionar alertas sonoros e visuais.
 
 ---
 
