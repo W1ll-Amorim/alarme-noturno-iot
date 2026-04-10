@@ -41,9 +41,11 @@ O projeto pode ser testado diretamente no navegador:
 
 ---
 
-## 📄 Documentação
+## 🔌 Esquema do Circuito
 
-👉 [Abrir documentação completa](docs/Projeto_alarme_noturno.pdf)
+![Esquema do circuito](docs/esquema.png)
+
+📄 Versão completa em PDF: [Abrir esquema](docs/Projeto_alarme_noturno.pdf)
 
 ---
 
