@@ -53,6 +53,7 @@ Lista completa em:
 1. Sensor detecta movimento
 2. Sistema ativa buzzer
 3. LED indica alerta
+4. LCD indica em tela 
 
 ---
 ## 👨‍💻 Autor
