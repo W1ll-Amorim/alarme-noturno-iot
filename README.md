@@ -53,7 +53,7 @@ Clique no botão abaixo para testar:
 
 1. Sensor detecta movimento
 2. Sistema ativa buzzer
-3. LED indica alerta
+3. LED vermelho indica alerta
 4. LCD apresenta em tela 
 
 ---
